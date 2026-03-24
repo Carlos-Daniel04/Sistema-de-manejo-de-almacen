@@ -8,3 +8,13 @@ C:\Users\Carlos\OneDrive\Desktop\Sistema de manejo de almacen\Sistema-de-manejo-
 C:\Users\Carlos\OneDrive\Desktop\Sistema de manejo de almacen\Sistema-de-manejo-de-almacen\Sistema de manejo de almacen\Sistema de manejo de almacen\obj\Debug\Sistema de manejo de almacen.csproj.CoreCompileInputs.cache
 C:\Users\Carlos\OneDrive\Desktop\Sistema de manejo de almacen\Sistema-de-manejo-de-almacen\Sistema de manejo de almacen\Sistema de manejo de almacen\obj\Debug\Sistema de manejo de almacen.exe
 C:\Users\Carlos\OneDrive\Desktop\Sistema de manejo de almacen\Sistema-de-manejo-de-almacen\Sistema de manejo de almacen\Sistema de manejo de almacen\obj\Debug\Sistema de manejo de almacen.pdb
+C:\Users\Carlos\OneDrive\Desktop\Sistema de manejo de almacen\Sistema-de-manejo-de-almacen\Sistema-de-manejo-de-almacen\Sistema de manejo de almacen\bin\Debug\Sistema de manejo de almacen.exe.config
+C:\Users\Carlos\OneDrive\Desktop\Sistema de manejo de almacen\Sistema-de-manejo-de-almacen\Sistema-de-manejo-de-almacen\Sistema de manejo de almacen\bin\Debug\Sistema de manejo de almacen.exe
+C:\Users\Carlos\OneDrive\Desktop\Sistema de manejo de almacen\Sistema-de-manejo-de-almacen\Sistema-de-manejo-de-almacen\Sistema de manejo de almacen\bin\Debug\Sistema de manejo de almacen.pdb
+C:\Users\Carlos\OneDrive\Desktop\Sistema de manejo de almacen\Sistema-de-manejo-de-almacen\Sistema-de-manejo-de-almacen\Sistema de manejo de almacen\obj\Debug\Sistema de manejo de almacen.csproj.AssemblyReference.cache
+C:\Users\Carlos\OneDrive\Desktop\Sistema de manejo de almacen\Sistema-de-manejo-de-almacen\Sistema-de-manejo-de-almacen\Sistema de manejo de almacen\obj\Debug\Sistema_de_manejo_de_almacen.Form1.resources
+C:\Users\Carlos\OneDrive\Desktop\Sistema de manejo de almacen\Sistema-de-manejo-de-almacen\Sistema-de-manejo-de-almacen\Sistema de manejo de almacen\obj\Debug\Sistema_de_manejo_de_almacen.Properties.Resources.resources
+C:\Users\Carlos\OneDrive\Desktop\Sistema de manejo de almacen\Sistema-de-manejo-de-almacen\Sistema-de-manejo-de-almacen\Sistema de manejo de almacen\obj\Debug\Sistema de manejo de almacen.csproj.GenerateResource.cache
+C:\Users\Carlos\OneDrive\Desktop\Sistema de manejo de almacen\Sistema-de-manejo-de-almacen\Sistema-de-manejo-de-almacen\Sistema de manejo de almacen\obj\Debug\Sistema de manejo de almacen.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\OneDrive\Desktop\Sistema de manejo de almacen\Sistema-de-manejo-de-almacen\Sistema-de-manejo-de-almacen\Sistema de manejo de almacen\obj\Debug\Sistema de manejo de almacen.exe
+C:\Users\Carlos\OneDrive\Desktop\Sistema de manejo de almacen\Sistema-de-manejo-de-almacen\Sistema-de-manejo-de-almacen\Sistema de manejo de almacen\obj\Debug\Sistema de manejo de almacen.pdb
